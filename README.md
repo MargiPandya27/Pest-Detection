@@ -29,4 +29,4 @@
 <p align ="center">
 <img src ="https://github.com/MargiPandya27/Pest-Detection/assets/117746681/2c1f4692-8cc4-4666-accb-c16c66169a71">
 </p>
-More info: 
+More info: https://github.com/MargiPandya27/Pest-Detection/blob/main/MiniProject_GROUP11.pdf
