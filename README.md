@@ -5,7 +5,7 @@
 * Facilitates data collection over time, allowing for pest patterns and trends analysis.
 
 <p align = center>
-<img src = "https://github.com/MargiPandya27/Pest-Detection/assets/117746681/45a2b1d4-01ed-4e55-87c5-d2c8f3ce8236">
+<img src = "https://github.com/MargiPandya27/Pest-Detection/assets/117746681/45a2b1d4-01ed-4e55-87c5-d2c8f3ce8236", width ="200" , height = "350">
 </p>
 
 ## Experimental Setup
